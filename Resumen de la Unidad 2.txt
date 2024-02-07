@@ -1,0 +1,38 @@
+Resumen Unidad 2
+
+Conceptos basicos para iniciar a programar:
+
+Para dar inicio a lo basico de la programacion, se debe conocer los conceptos y valores basicos con los cuales se estara trabajando al programar. 
+
+Los tipos de datos, entre los que estan, valores numericos, texto etc. 
+
+Tambien las variables las cuales nos permiten asignar valores a los datos. Estas van agarradas a ciertos estandares globalizados en el entorno de la programacion. 
+
+Tipos de datos y operadores:
+
+Estos tipos de datos es una clasificacion que define los posibles valores y operaciones que se pueden realizar con los mismos. 
+
+Entre ellos estan los operadores numericos(aritmeticos) como suma, resta, multiplicacion division y modulo 
+
+Operadores comparativos comparan datos y devuelven un verdadero o falso. Entre ellos se pueden ver igualdad (==), no igualdad (!=), mayor que (>), mayor o igual que (>=), menor que (<) y menor o igual que (<=).
+
+Tipos de datos logicos (Booleanos)
+Los cuales representan verdadero o falso, encendido o apagado. Generalmente provienen de las operaciones comparativas. 
+
+Operaciones logicas. 
+Son comunmente utilizados con los operadores comparativos, para cumplir multiples condiciones. 
+
+AND funciona como la conjuncion logica: verdadera si ambas exporesiones son verdaderas.
+
+OR funciona como la disyuncion logica: es verdadera si alguna expresion es verdadera. 
+
+NOT funciona como la negacion logica: si una expresion es falsa es lo contrario 
+
+Estructuras de control(bucles):
+Permiten repetir instrucciones determinada cantidad de veces. 
+
+For: tiens una condicion fija de cuantas veces se repetiran las instrucciones.
+
+While: se repetira mientras una condicion se cumpla
+
+

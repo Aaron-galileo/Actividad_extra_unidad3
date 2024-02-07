@@ -1,0 +1,12 @@
+Resumen Unidad 3
+
+Controladores de versiones: 
+
+En programacion es importante poder controlar los cambios que se hacen en un codigo especialmente si este es manipulado por muchas personas al mismo tiempo. 
+
+Estos nos permiten subir bloques de codigo y especificar los cambios que se han ejecutado en el codigo, mientras mas gente trabaja en el mismo codigo. 
+
+Hay muchos controladores de versiones, uno de los mas usados es github. 
+
+
+

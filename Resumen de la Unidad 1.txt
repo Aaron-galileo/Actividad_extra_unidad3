@@ -1,0 +1,33 @@
+Resumen de la Unidad 1
+
+
+Sistema Binario:
+
+Para comenzar a programar, es esencial comprender que las computadoras procesan las instrucciones utilizando el sistema binario. En este sistema, los números se representan utilizando solo dos dígitos: 0 y 1.
+
+Una de las habilidades fundamentales que necesitamos es la capacidad de convertir números decimales (base 10) a números binarios. Un método comúnmente utilizado para hacer esto es el método de la división.
+
+
+Logica: 
+Esta es necesario ya que nos brinda las reglas y herramientas necesarias para determinar si un razonamiento es valido o no. Puede ser representada con 0 o 0, verdadero o falso entre otros. 
+
+En especifico los proposiocinales logicos.
+conjuncion, disyuncion y negacion. 
+
+Algoritmos:
+Los algoritmos son una parte esencial en la vida para resolver diferentes casos, al igual que en programacion. Aprender a crear algoritmos paso a paso con un orden logico. 
+
+
+Lenguajes de programacion y programas de programacion:
+Herramientas o software esenciales para la creacion de programas este provee las estructuras abstraciones y organizacion, nos ayuda para comunicar comandos al sistem el cual se hace a traves de codigo binario
+
+Entre los tantos lenguajes, javascript es uno de los mas utilizados para la creacion de programas. 
+
+Editores de texto:
+
+Estos nos proveen el entorno y herramientas necesarias para poder programar en cualquier lenguaje y maximizar la productividad de quien programa, eixte una gran variedad entre los cuales destacan: 
+
+Visual Studio
+Intellij IDEA
+Sublime
+
