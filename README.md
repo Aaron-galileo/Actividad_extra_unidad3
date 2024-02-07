@@ -1,1 +1,1 @@
-# Actividad_extra_unidad3
+Decidi usar la licensia MIT por que considero que la comunidad puede aportar mucho a ciertos proyectos, no se si tiene algo que ver pero, soy seguidor de una empresa que crea instrumentos musicales y sus codigos son de libre acceso y mucha gente ha contribuido positivamente al mejoramiento de los mismos. 
